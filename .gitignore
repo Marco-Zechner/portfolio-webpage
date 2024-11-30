@@ -1,0 +1,14 @@
+# Generated files by hugo
+/my-portfolio/public/
+/my-portfolio/resources/_gen/
+/my-portfolio/assets/jsconfig.json
+/my-portfolio/themes/hello-friend-ng/
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/my-portfolio/.hugo_build.lock
